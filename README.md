@@ -7,3 +7,9 @@ LEET CODE PROBLEMS
 #9 Palindrome Number O(n)
 
 #79 Word Search O(n^2) // O(n*m*4^i) *MY BLOOMBERG INTERVIEW QUESTION*
+
+--------------------------
+
+NeetCode Roadmap
+
+#1 Contains Duplicate O(n^2)
