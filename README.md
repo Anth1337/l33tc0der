@@ -13,3 +13,5 @@ LEET CODE PROBLEMS
 NeetCode Roadmap
 
 #1 Contains Duplicate O(n^2)
+
+#2 Is Anagram 0(s + t)
