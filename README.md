@@ -1,6 +1,6 @@
 # l33tc0der
 
-LEET CODE PROBLEMS
+LEET CODE PROBLEMS w/ Time Complexity
 
 #1 TwoSum O(n^2)
 
@@ -15,3 +15,5 @@ NeetCode Roadmap
 #1 Contains Duplicate O(n^2)
 
 #2 Is Anagram 0(s + t)
+
+#3 TwoSum O(n^2)
