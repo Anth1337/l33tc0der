@@ -1,4 +1,4 @@
-class Solution {
+class ArrayDups {
     public boolean hasDuplicate(int[] nums) {
         // Loop through each element
         for (int i = 0; i < nums.length; i++) {

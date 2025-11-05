@@ -8,7 +8,7 @@ public class TwoSum {
                     }
                 }
             }
-            return new int[]{};
+            return new int[]{}; // Can also return null
         }
     }
 
